@@ -52,7 +52,7 @@ export const AuthProvider = ({ children }) => {
       }
     } catch (err) {
       console.error('Error fetching users:', err);
-      setErrors({ email: 'Algo salió mal. Por favor, inténtalo de nuevo más tarde.' });
+      setErrors({ email: 'Algo salió mal. Por favor, inténtelo de nuevo más tarde.' });
     }
   };
  
