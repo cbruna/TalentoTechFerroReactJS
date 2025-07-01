@@ -30,7 +30,7 @@ const Cart = ({ isOpen, onClose }) => {
                         <div className='cart-footer'>
                             <p style={{ color: 'blue' }}>Total: ${cart.reduce((total, item) => total + (item.precio * item.cantidad), 0)}</p>
                             <p>
-                                <button style={{color:'white'}} onClick={()=> clearCart()} className='btnCheckout' >Finalizar Compra</button>
+                                <button style={{backgroundColor:'#007bff',color:'white'}} onClick={()=> clearCart()} className='btnCheckout' >Finalizar Compra</button>
                             </p>
                         </div>
                 </>)}
