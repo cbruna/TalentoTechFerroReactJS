@@ -64,6 +64,10 @@ header{
     }
 }
 
+body {
+  background-color: #252525
+}
+
 footer{
     color: #f1cf33;
     margin-top: 50px;
