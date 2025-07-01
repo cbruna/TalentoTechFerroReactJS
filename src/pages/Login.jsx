@@ -20,6 +20,7 @@ const Login = () => {
         margin: 'auto',
       }}
     >
+      <h1> Talento Ferromodelismo </h1>
       <div style={{ display: 'flex', flexDirection: 'column' }}>
         <label htmlFor="formBasicEmail" style={{ marginBottom: '0.5rem', fontWeight: 'bold' }}>
           Email address
