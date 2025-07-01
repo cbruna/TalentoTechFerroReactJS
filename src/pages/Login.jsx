@@ -23,7 +23,7 @@ const Login = () => {
       <h1> Talento Ferromodelismo </h1>
       <div style={{ display: 'flex', flexDirection: 'column' }}>
         <label htmlFor="formBasicEmail" style={{ marginBottom: '0.5rem', fontWeight: 'bold' }}>
-          Email address
+          Email 
         </label>
         <input
           id="formBasicEmail"
@@ -79,7 +79,7 @@ const Login = () => {
           fontSize: '1rem',
         }}
       >
-        Submit
+        Ingresar
       </button>
     </form>
   );
