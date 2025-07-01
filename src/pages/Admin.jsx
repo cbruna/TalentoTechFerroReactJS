@@ -31,6 +31,7 @@ const Admin = () => {
                 <p>Cargando...</p>
             ) : (
                 <>
+                    <h1>Talento Ferromodelismo</h1>
                     <nav>
                         <ul className="nav">
                             <li className="navItem">
