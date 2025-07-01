@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "nombre": "locomotora vapor inglesa",
+    "precio": 175500.0,
+    "stock": 2,
+    "imagen": "https://cbruna.github.io/talento_ferromodelismo/assets/img/locomotora_vapor.jpg",
+    "categoria": "vapor",
+    "cantidad": 0,
+    "descripcion": "unidad vapor a biela tender carbonero"
+  },
+  {
+    "id": "2",
+    "nombre": "locomotora americana 1895",
+    "precio": 168000.0,
+    "stock": 3,
+    "imagen": "https://cbruna.github.io/talento_ferromodelismo/assets/img/locomotora_2.jpg",
+    "categoria": "vapor",
+    "cantidad": 0,
+    "descripcion": "unidad vapor a biela tender carbonero"
+  },
+  {
+    "id": "3",
+    "nombre": "locomotora Ferrocarriles Argentinos '70",
+    "precio": 145000.0,
+    "stock": 4,
+    "imagen": "https://cbruna.github.io/talento_ferromodelismo/assets/img/locomotora_argentina_2.jpg",
+    "categoria": "diesel-eléctrica",
+    "cantidad": 0,
+    "descripcion": "unidad diesel eléctrica"
+  },
+  {
+    "id": "4",
+    "nombre": "locomotora a catenaria francesa '70",
+    "precio": 125000.0,
+    "stock": 5,
+    "imagen": "https://cbruna.github.io/talento_ferromodelismo/assets/img/locomotora_catenaria.jpg",
+    "categoria": "eléctrica",
+    "cantidad": 0,
+    "descripcion": "unidad eléctrica"
+  },
+  {
+    "id": "5",
+    "nombre": "coche 1ra. clase suizo",
+    "precio": 78000.0,
+    "stock": 6,
+    "imagen": "https://cbruna.github.io/talento_ferromodelismo/assets/img/vagon_pasajeros.jpg",
+    "categoria": "pasajeros",
+    "cantidad": 0,
+    "descripcion": "unidad confort"
+  },
+  {
+    "id": "6",
+    "nombre": "coche ferrocarriles alemanes '60",
+    "precio": 67700.0,
+    "stock": 7,
+    "imagen": "https://cbruna.github.io/talento_ferromodelismo/assets/img/vagon_pasajeros_DB_2.jpg",
+    "categoria": "pasajeros",
+    "cantidad": 0,
+    "descripcion": "unidad confort"
+  },
+  {
+    "id": "7",
+    "nombre": "coche AMTRACK",
+    "precio": 77000.0,
+    "stock": 8,
+    "imagen": "https://cbruna.github.io/talento_ferromodelismo/assets/img/vagon_pasajeros_4.jpg",
+    "categoria": "pasajeros",
+    "cantidad": 0,
+    "descripcion": "unidad confort"
+  },
+  {
+    "id": "8",
+    "nombre": "vagón carbonero",
+    "precio": 43000.0,
+    "stock": 9,
+    "imagen": "https://cbruna.github.io/talento_ferromodelismo/assets/img/vagon_carbon.jpg",
+    "categoria": "carga",
+    "cantidad": 0,
+    "descripcion": "unidad carga"
+  },
+  {
+    "id": "9",
+    "nombre": "vagón fuel-oil",
+    "precio": 53000.0,
+    "stock": 10,
+    "imagen": "https://cbruna.github.io/talento_ferromodelismo/assets/img/vagon_cisterna_2.jpg",
+    "categoria": "carga",
+    "cantidad": 0,
+    "descripcion": "unidad carga"
+  },
+  {
+    "id": "10",
+    "nombre": "vagón jaula para ganado",
+    "precio": 56000.0,
+    "stock": 11,
+    "imagen": "https://cbruna.github.io/talento_ferromodelismo/assets/img/vagon_jaula.jpg",
+    "categoria": "pasajeros",
+    "cantidad": 0,
+    "descripcion": "unidad carga"
+  }
+]

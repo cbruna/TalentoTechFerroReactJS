@@ -1,0 +1,97 @@
+h1{
+    /*padding-top:30px;*/
+    color: #f1cf33;
+    font-size: 3rem;
+    text-align: center;
+}
+h2{
+    color:  #2563eb;
+    font-size: 2rem;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-size: 18px;
+
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+    align-items: center;
+}
+
+.link{
+    color: white;
+    text-decoration: none;
+}
+
+header{
+    background-color: rgba(145, 142, 135, 0.541);
+    font-size: 10px;
+    position:sticky;
+    top:0;
+    z-index:1005;
+    height: 10vh;
+    padding:10px;
+    
+    .logo{
+        width: 70px;
+        margin-left: 20px;
+    }
+
+    nav{
+        position:absolute;
+        left:60%;
+        top:50%;
+        ul{
+            list-style: none;
+            li{
+                display: inline-block;
+                margin-right: 15px;
+                a{
+                    text-decoration: none;
+                    color:  #510d1b;
+                    font-size: 2em;
+                  
+                }
+            }
+           
+        }
+    }
+}
+
+footer{
+    color: #f1cf33;
+    margin-top: 50px;
+    background-color: rgba(145, 142, 135, 0.541);
+    text-align: center;
+    position: relative;
+    font-size: 10px;
+   
+
+    .logo{
+        width: 100px;
+    }
+}
+
+.btnCart{
+    background-color: transparent;
+    border: none;
+}
+
+.fa-cart-shopping{
+    color:  #f1cf33; 
+    font-size: 2em;
+    
+}
+
+.fa-solid fa-user-tie{
+    color:  #2563eb; 
+    font-size: 2em;
+    
+}
+
