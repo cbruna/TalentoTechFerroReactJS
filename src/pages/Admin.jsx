@@ -73,7 +73,9 @@ const Admin = () => {
                     </ul>
                 </>
             )}
-            <button onClick={() => setOpen(true)}>Agregar producto nuevo</button>
+            <p>
+                <button style={{backgroundColor:'#007bff',color:'white'}} onClick={() => setOpen(true)}>Agregar producto nuevo</button>
+            </p>
             {open && (<FormularioProducto onAgregar={agregarProducto} />)}
             {openEditor && (<FormularioEdicion productoSeleccionado={seleccionado} onActualizar={actulizarProducto} />)}
         </div>
